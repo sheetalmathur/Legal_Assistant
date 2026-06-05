@@ -25,7 +25,7 @@ Getting Started
    then download the `ipc_vector_db` from the output folder and save it locally.
 
    Option B: Skip `ingest.py` and directly download the vector database from Hugging Face Space:
-   https://huggingface.co/spaces/Sheetal12345/ipc_vector_space
+   https://huggingface.co/Sheetal12345/ipc_vector_soace
 
 ##4. Set up Groq API Key (instead of TogetherAI):
    Sign up at https://console.groq.com and get your API key.
